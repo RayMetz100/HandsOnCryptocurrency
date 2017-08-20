@@ -1,2 +1,1 @@
-# HandsOnCryptocurrency
-Meetup style group for learning cryptocurrency by doing
+[Content](https://github.com/RayMetz100/HandsOnCryptocurrency/wiki)
