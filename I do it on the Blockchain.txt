@@ -1,0 +1,36 @@
+Title: I do it on the Blockchain, Hands On Lab
+
+Date/place TBD (I'm not available Monday 11/30)
+
+Host: Ray Metz
+
+Check In questions: How much cryptocurrency might you own 2 years from now?  Where do you plan to keep most of it? How do you plan to keep it safe?
+
+Opening: Host explains the difference between holding coins on the blockchain vs. Exchanges or other third parties.
+
+This lab excercise uses the blockchain only and not exchanges.
+
+Materials: 
+Preprinted business 'teaching' cards: One each for: blockchain, explorer, hot wallet, private key, address, random number generator, cold storage, exchange.  The cards contain descriptions of each term.  About 10 cards if you have 3x BTC cards for blockchain, explorer, and hot wallet, then 3x more for ETH, then 4 more for the other terms.  Do not hand these out at the beginning.
+
+Wallets: The host also brings three sets of 20x ETH paper wallets.  Set 1 is preloaded with ETH value in many denominations ranging from 30 cents to $3.  Set 2 has 20x different keyed empty paper wallets. Set 1 and 2 paper wallets have the words "This private key has been shared.  Do not hold value on this address.  Transfer value off as soon as possible."   Set 3 has 20 copies of a matching public address, for which the host only has the private key for, labeled class fee, tip, or host.  Set 3 can also be the welcome sheet with wifi info, tear off survey, contact info and links to take home, etc.
+
+Lab Part 1, the Explorer:
+The host hands everyone public keys from set 3, the Fee/Tip address.  Each student scans the key and uses their own phone to check the balance.  It may be empty of have value from the last class.  The host or one of the advanced students can transfer $1 there and students can see it in real time.  ETH transfers take 30 seconds to appear on the blockchain.  Host explains that students who have exchange balances can't confirm or find them on the blockchain.  Host explains how money on the exchange depends on a specific company, conuntries legal system, and employees.  Host explains how the blockchain isn't owned by any country, company, or employees.
+
+Short break for questions or social time
+
+Lab Part 2, trading card sets:
+The host demonstrates the business card informational sets.  The host can price them at 50 cents, auction them, or whatever makes sense.  Advanced students may already have ETH in an exchange account or phone wallet.  They can buy sets directly by paying to the Host fee/tip address.  Let the other students who don't have ETH to send verify the transaction with their explorer from part 1.  If no one can buy eith ETH, have someone give you a dollar, send yourself ETH, and let the students confirm the purchase(s).
+
+Short break for questions or social time
+
+Lab Part 3, Private Keys and Hot Wallets: 
+Place the empty wallets in the center of the table or pass them out.  Let students confirm they are empty with explorers.  Show them your stash of loaded wallets with private key hidden of course.  let someone scan a couple to confirm value.  Host explains private keys, how they are directly compatible with the blockchain, and require no specific 3rd party.  Explain how it takes a hot wallet to import and transfer their value.  Give a 30 cent paper wallet to a student and help them spend it, using the private key and a hot wallet website like MyEtherWallet.com to transfer value from private key to an empty public key wallet.
+
+Short break for questions or social time
+
+Lab 4, Everyone does it on the blockchain:
+The host offers the teaching card sets again, only for ETH, not USD.  They also offer to sell their 30 cent to $3 valued paper wallets for USD.  Some students will buy them.  Depending on the Fee/Tip balance, the host may choose to give some ETH wallets away for student use.  Students can transfer with each other and load their empty paper wallets if they want.  Students who already have exchange accounts or phone wallets can also participate any way they see fit.
+
+Closing: Show students how to make their own paper wallets or use a phone wallet.  Remind them that exchanges are evil.  Remind them to pay the class fee or tip.
